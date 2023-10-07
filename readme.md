@@ -7,7 +7,7 @@ Italian Citizenship is based on a simple pass from parent to child.  Thi means t
 - If either ever lived in Italy.
 - If the child's birth was registered in Italy
 
-Because of this, a relative with Italian Citizenship can pass it down the line to any children indefinitely.
+Because of this, a relative with Italian Citizenship can pass it down the line to any children, indefinitely.
 
 ## What Does Citizenship Mean
 Going through this process will result in the Italian Government recognizing you as an Italian Citizen.  More specifically, you will be a Dual United States / Italian Citizen. 
@@ -52,7 +52,7 @@ To do this, Hannah hired a researcher at the National Archives and Records Assoc
 ![Declaration of Intention: Erie County, 1951](intention.jpg)
 
 ### Proving Relation
-We have a relative, but now we need to prove to Italian Government that we are related. To do this, we need to have Birth, Marriage, and Death Certificates for all relatives between.  In my case for example, I need Sam Barone, Anne Barone, Carole Zimmerman, Barrett Zimmerman, and My Birth, Marriage, and Death (where applicable) Certificates.
+We have a relative, but now we need to prove to Italian Government that we are related. To do this, we need to have Birth, Marriage, and Death Certificates for all relatives between.  In my case (Travis Zimmerman) for example, I need Sam Barone, Carole Zimmerman, Barrett Zimmerman, and My Birth, Marriage, and Death (where applicable) Certificates.
 
 All of these documents need to be:
 - Official, as in, received from the archives. Not a copy.
