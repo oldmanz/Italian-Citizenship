@@ -45,11 +45,13 @@ After YEARS of research, this is now done!  Meet, Guiseppe (Joe) Barone!
 - He had 4 children, John, Sam, Rosario, and George.  The latest of which was born in 1916.
 
 
-To assure that Joe could pass his citizenship on to his children, we needed to verify that he did not denounce his Italian Citizenship prior to having his children(Denounce meaning that he nationalized, becoming a US Citizen.).
+To assure that Joe could pass his citizenship on to his children, we needed to verify that he did not denounce his Italian Citizenship (Nationalize - Becoming a US Citizen) prior to having his children.  This information is hard to be sure of, as public records of nationalization are not readily available.  This is especially difficult with Joe, as he came to the US in the early 1900's, then went back to Italy, and finally came back to the US.  During any of these moves, he could have denounced either citizenship, and muddied the water on his eligibility.
 
-To do this, Hannah hired a researcher at the National Archives and Records Association to find all the paperwork they had on Joe.  That process took over a year!  But, we can now be sure that Joe didn't nationalize until 1951.
+Ultimatley, to know for sure, our only option was to hire a researcher at the National Archives and Records Association to find all the paperwork they had on Joe (this paperwork is called an 'A-File' or 'Alien File').  That process took over a year!  But, we can now be absolutely certain that Joe didn't nationalize until 1951, long after having his son Sam.   
 
 ![Declaration of Intention: Erie County, 1951](intention.jpg)
+
+This, and many other documents are now part of the public record, and we have a stack of physical copies.
 
 ### Proving Relation
 We have a relative, but now we need to prove to Italian Government that we are related. To do this, we need to have Birth, Marriage, and Death Certificates for all relatives between.  In my case (Travis Zimmerman) for example, I need Sam Barone, Carole Zimmerman, Barrett Zimmerman, and My Birth, Marriage, and Death (where applicable) Certificates.
