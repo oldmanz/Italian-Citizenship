@@ -1,7 +1,7 @@
 # Barone Italian Citizenship
 
 ## Overview
-Italian Citizenship is based on a simple pass from parent to child.  Thi means that an Italian Citizen can pass citizenship onto children regardless of:
+Italian Citizenship is based on a simple pass from parent to child.  This means that an Italian Citizen can pass citizenship onto children regardless of:
 - Where the parent is born
 - Where the child is born
 - If either ever lived in Italy.
@@ -47,17 +47,18 @@ After YEARS of research, this is now done!  Meet, Guiseppe (Joe) Barone!
 
 To assure that Joe could pass his citizenship on to his children, we needed to verify that he did not denounce his Italian Citizenship (Nationalize - Becoming a US Citizen) prior to having his children.  This information is hard to be sure of, as public records of nationalization are not readily available.  This is especially difficult with Joe, as he came to the US in the early 1900's, then went back to Italy, and finally came back to the US.  During any of these moves, he could have denounced either citizenship, and muddied the water on his eligibility.
 
-Ultimatley, to know for sure, our only option was to hire a researcher at the National Archives and Records Association to find all the paperwork they had on Joe (this paperwork is called an 'A-File' or 'Alien File').  That process took over a year!  But, we can now be absolutely certain that Joe didn't nationalize until 1951, long after having his son Sam.   
+Ultimately, to know for sure we had to place a request with the National Archives and Records Association to find all the paperwork they had on Joe (this paperwork is called an 'A-File' or 'Alien File').  That process took over a year!  But, we can now be absolutely certain that Joe didn't nationalize until 1951, long after having his son Sam.   
 
 ![Declaration of Intention: Erie County, 1951](intention.jpg)
 
-This, and many other documents are now part of the public record, and we have a stack of physical copies.
+This is a Declaration of Intention, paperwork filed by Joe to gain US citizenship.  This is not the actual Nationalization Certificate.
 
 ### Proving Relation
 We have a relative, but now we need to prove to Italian Government that we are related. To do this, we need to have Birth, Marriage, and Death Certificates for all relatives between.  In my case (Travis Zimmerman) for example, I need Sam Barone, Carole Zimmerman, Barrett Zimmerman, and My Birth, Marriage, and Death (where applicable) Certificates.
 
 All of these documents need to be:
-- Official, as in, received from the archives. Not a copy.
+- A Certified Copy, a type of copy you can request from the government.
 - Have an accompanying Apostille.
 - Translated into Italian by a professional translator.
 
+## What needs done
