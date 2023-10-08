@@ -1,6 +1,25 @@
 # Barone Italian Citizenship
+- [Barone Italian Citizenship](#barone-italian-citizenship)
+  - [Overviewss](#overviewss)
+  - [What Does Citizenship Mean](#what-does-citizenship-mean)
+  - [The Process](#the-process)
+    - [Finding a Relative](#finding-a-relative)
+    - [Proving Relation](#proving-relation)
+  - [What Are My Next Steps?](#what-are-my-next-steps)
+    - [Acquire Documents](#acquire-documents)
+      - [Naturalization](#naturalization)
+      - [Birth, Death, and Marriage Certificates](#birth-death-and-marriage-certificates)
+        - [A Few Possible Shortcuts](#a-few-possible-shortcuts)
+    - [Meeting With the Consulate](#meeting-with-the-consulate)
+      - [Location](#location)
+      - [Scheduling](#scheduling)
+      - [Meeting](#meeting)
+  - [Specific Checklists](#specific-checklists)
+    - [Travis and Hannah](#travis-and-hannah)
+    - [Ryan](#ryan)
+    - [Anyone else](#anyone-else)
 
-## Overview
+## Overviewss
 Italian Citizenship is based on a simple pass from parent to child.  This means that an Italian Citizen can pass citizenship onto children regardless of:
 - Where the parent is born
 - Where the child is born
