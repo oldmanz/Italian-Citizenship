@@ -123,10 +123,10 @@ In short, we need a bunch of documents:
     - Marriage   - From Italy, may be hard to get
     - Death      - State of Ohio for Joe, and Erie County for Giorgia.  (records went from county to state in 1973)
 
-- Sam and Anne:
+- Sam and Anna:
     - Birth     - State of Ohio
     - Marriage  - County of Marriage Probate Court  (Erie County?)
-    - Death     - Erie County Health Department for Sam, State of Ohio for Anne
+    - Death     - Erie County Health Department for Sam, State of Ohio for Anna
 
 - Carole / Tony / Sam / Joe  (and spouse)
     - Birth     - State of Ohio
