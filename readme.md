@@ -1,6 +1,6 @@
 # Barone Italian Citizenship
 - [Barone Italian Citizenship](#barone-italian-citizenship)
-  - [Overviewss](#overviewss)
+  - [Overview](#overview)
   - [What Does Citizenship Mean](#what-does-citizenship-mean)
   - [The Process](#the-process)
     - [Finding a Relative](#finding-a-relative)
@@ -18,8 +18,11 @@
     - [Travis and Hannah](#travis-and-hannah)
     - [Ryan](#ryan)
     - [Anyone else](#anyone-else)
+- [More](#more)
+  - [Photos and Information About Joe](#photos-and-information-about-joe)
+  - [Links](#links)
 
-## Overviewss
+## Overview
 Italian Citizenship is based on a simple pass from parent to child.  This means that an Italian Citizen can pass citizenship onto children regardless of:
 - Where the parent is born
 - Where the child is born
@@ -57,7 +60,7 @@ To inherit citizenship, one must
 ### Finding a Relative 
 After YEARS of research, this is now done!  Meet, Guiseppe (Joe) Barone!
 
-![Guiseppe Barone](joe.jpg)
+![Guiseppe Barone](nara/photos/joe.jpg)
 
 - Guiseppe was born in 1881 in Modica Italy, making him an Italian Citizen.  
 - His parents were both Italian Citizens, so there is no question he was one also.
@@ -68,9 +71,11 @@ To assure that Joe could pass his citizenship on to his children, we needed to v
 
 Ultimately, to know for sure we had to place a request with the National Archives and Records Association to find all the paperwork they had on Joe (this paperwork is called an 'A-File' or 'Alien File').  That process took over a year!  But, we can now be absolutely certain that Joe didn't nationalize until 1951, long after having his son Sam.   
 
-![Declaration of Intention: Erie County, 1951](intention.jpg)
+![Declaration of Intention: Erie County, 1951](nara/photos/citizenship/1951_09_06_declaration_of_intention.jpg)
 
 This is a Declaration of Intention, paperwork filed by Joe to gain US citizenship.  This is not the actual Naturalization Certificate.
+
+For pictures of all the documents provided by NARA of Joe's A-File, see [Nara Joe Docs](nara/readme.md)
 
 ### Proving Relation
 We have a relative, but now we need to prove to Italian Government that we are related. To do this, we need to have Birth, Marriage, and Death Certificates for all relatives between.  In my case (Travis Zimmerman) for example, I need Sam Barone, Carole Zimmerman, Barrett Zimmerman, and My Birth, Marriage, and Death (where applicable) Certificates.
@@ -170,3 +175,16 @@ Take all the above documents to the meeting.
 
 ### Anyone else
 - [ ] Let Travis and Hannah know you are interested and we can advise.
+
+
+
+
+
+
+# More
+## Photos and Information About Joe
+[Nara Documents](nara/readme.md)
+
+## Links
+[Helpful Process Overview](https://dualusitalian.com/welcome/units/overview-of-jure-sanguinis/)
+[Consulate Locations](https://www.italiandualcitizenship.net/italian-consulate-locations/)
