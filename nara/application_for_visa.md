@@ -50,11 +50,15 @@ And finally, he arrived in the US on Sept. 23, 1948 and received his visa.
 ### You can see that the boat they arrived on was called the 'SS Marine Perch'.  Here is an image of the boat found online. (not NARA provided)
 ![SS Marine Perch](photos/visa/marine_perch.jpg)
 
-### Here is another publicly available image of a passenger manifest for the Marine Perch. (not NARA provide) - Sept. 23, 1948   See Passengers 15 and 16:
+### Here is another publicly available image of a passenger manifest for the Marine Perch. (not NARA provided) - Sept. 23, 1948   See Passengers 15 and 16:
 ![passengers](photos/visa/marine_perch_passengers.jpg)
 
 ## Visa - Sept. 23, 1948
 ![visa](photos/visa/1948_09_23_visa.jpg)
+
+## Finally, this Sandusky Register Article written about the Barone's.  October 7, 1948  (Not Nara Provided)
+![family](photos/visa/1948_10_07_newspaper.jpg)
+
 
 
 See the next chapter of this story here: [Road to Citizenship](road_to_citizenship.md)
